@@ -1,7 +1,7 @@
 MyApplicationTestProject
 ========================
 
-Android Studio Sample Code to show how to create and run Tests
+Android Studio Sample Code to show how to create and run Tests (ActivityInstrumentationTestCase2)
 
 This Android Studio Project is part of the book
 
